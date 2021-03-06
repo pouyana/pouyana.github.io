@@ -1,6 +1,8 @@
 ---
 title: Test Post
 date: 2021-03-06 14:04:00 Z
+tags:
+- test
 ---
 
 Test
